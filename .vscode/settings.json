@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "chrono": "cpp",
+        "string_view": "cpp",
+        "functional": "cpp",
+        "ratio": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "string": "cpp",
+        "new": "cpp",
+        "bitset": "cpp"
+    }
+}
